@@ -26,8 +26,8 @@
 #define _PERIPH_ADC_BUTTON_H_
 
 #include "driver/adc.h"
-#include "adc_button.h"
-#include "esp_peripherals.h"
+#include "my_esp_peripherals/adc_button.h"
+#include "my_esp_peripherals/esp_peripherals.h"
 
 #ifdef __cplusplus
 extern "C" {
